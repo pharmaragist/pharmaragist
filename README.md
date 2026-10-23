@@ -1,3 +1,4 @@
+```
              .',;::::;,'.                 pharmaracist@noon
          .';:cccccccccccc:;,.             -----------------
       .;cccccccccccccccccccccc;.          OS: Fedora Linux 44 (KDE Plasma Desktop Edition) x86_64
@@ -23,3 +24,4 @@ ccccccccccccccccccccccccccccc:'.          CPU: Intel(R) Core(TM) i7-8850H (12) @
                                           Disk (/mnt/Data): 226.05 GiB / 314.73 GiB (72%) - ext4
                                           Local IP (wlp59s0): 192.168.1.9/24
                                           Battery (DELL GPM0365): 100% [AC Connected]
+```
